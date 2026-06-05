@@ -1,5 +1,5 @@
 
-
+//parei no Exercícios 4.8.-4.12.
 const config = require('./utils/config');
 const express = require('express');
 const app = express();
